@@ -1,0 +1,11 @@
+baseURL = "https://taiyaq.github.io/"
+languageCode = "ja-JP"
+title = "Taiyaq"
+theme = "learn"
+
+# For search functionnality
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
+[params]
+ themeVariant = "green"

@@ -8,5 +8,9 @@ chapter: false
 https://facebook.github.io/react-native/docs/using-a-scrollview.html
 
 先ずは該当ドキュメントのライセンスを参照して翻訳して問題ないことを確認します。
+react-nativeのドキュメントのライセンスは
+https://github.com/facebook/react-native/blob/master/LICENSE-docs
+から確認できます。
+
 
 

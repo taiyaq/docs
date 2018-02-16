@@ -3,4 +3,5 @@
   "gotoSymbolStack.maxStackPosition": 0,
   "gotoSymbolStack.filePositionInfo": [],
   "textlint.autoFixOnSave": true,
+  "textlint.run": "onType",
 }

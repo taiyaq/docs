@@ -1,6 +1,14 @@
 {
-  "filters": {},
+  "filters": {
+    "whitelist": {
+      "allow": [
+        "{{%",
+        "%}}"
+      ]
+    }
+  },
   "rules": {
-    "preset-ja-technical-writing": true
+    "preset-ja-technical-writing": true,
+    "textlint-rule-spellcheck-tech-word": true
   }
 }
